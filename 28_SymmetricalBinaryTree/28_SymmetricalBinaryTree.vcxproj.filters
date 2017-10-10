@@ -18,5 +18,8 @@
     <ClCompile Include="SymmetricalBinaryTree.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="zzp_是否是镜像树.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
